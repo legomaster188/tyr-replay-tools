@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# never commit replays: they contain player names and Steam IDs
+*.replay
