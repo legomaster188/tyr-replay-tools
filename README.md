@@ -96,8 +96,9 @@ MIT, see [LICENSE](LICENSE).
 
 If you just want your matches to show up on
 [TYR.pages](https://tyrpages.legomaster188.workers.dev) rather than decode
-anything yourself, `uploader/` watches your replay folder and sends new ones up.
-One file, stdlib only, not a mod. See [uploader/README.md](uploader/README.md).
+anything yourself, that's a separate tool:
+[tyr-uploader](https://github.com/legomaster188/tyr-uploader). It watches your
+replay folder and sends new ones up. One file, stdlib only, not a mod.
 
 ## Scope
 
