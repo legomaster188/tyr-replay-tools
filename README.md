@@ -92,6 +92,13 @@ reference.
 
 MIT, see [LICENSE](LICENSE).
 
+## Uploading replays
+
+If you just want your matches to show up on
+[TYR.pages](https://tyrpages.legomaster188.workers.dev) rather than decode
+anything yourself, `uploader/` watches your replay folder and sends new ones up.
+One file, stdlib only, not a mod. See [uploader/README.md](uploader/README.md).
+
 ## Scope
 
 This is the replay reading half of a bigger stats project, split out on its own
